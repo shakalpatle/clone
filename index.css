@@ -1,0 +1,104 @@
+*{
+   background-color: #EFEFEF;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+   
+    
+}
+.qu{
+    display: flex;
+   flex-direction: column;
+}
+.qu img{
+    width: 1210px;
+}
+.logo{
+    width: 125px;
+    height: 55px;
+    margin-left: 45px;
+}
+
+.log button{
+    margin-top: 10px;
+    margin-right: 60px;
+    padding: 10px;
+    background-color: rgb(55, 63, 236);
+    border: none;
+    padding-left: 35px;
+    padding-right: 35px;
+    color: white;
+    border-radius: 2px;
+}
+
+main{
+    display: flex;
+}
+
+.mn{
+    margin-left: 60px;
+    font-size: 50px;
+    font-family: sans-serif;
+    color: #002E5C;
+    line-height: 70px;
+    width: 55%;
+    display: inline-block;
+}
+
+.mn p{
+    margin-top: 170px;
+}
+
+.mn span{
+    font-weight: bolder;
+}
+
+.photo{
+    display: inline-block;
+    width: 42%;
+}
+
+.ico{
+    margin-left: 40px;
+}
+.df{
+    display: flex;
+    flex-direction: column;
+    background-color: #002955;
+}
+
+.s{
+    color: #002955;
+    font-size: 30px;
+}
+
+.ico{
+    background-color: #002955;
+}
+
+.sp{
+    background-color: #002955;
+}
+
+.foot{
+    display: flex;
+    background-color: #002955;
+}
+
+.foot ul{
+    list-style: none;
+    background-color: #002955;
+    padding-right: 30px;
+}
+
+.foot ul li{
+    background-color: #002955;
+    color: white;
+}
+
+.foot ul li b{
+    background-color: #002955;
+    color: white;
+}
