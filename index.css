@@ -67,6 +67,7 @@ main{
     display: flex;
     flex-direction: column;
     background-color: #002955;
+    padding-top: 30px;
 }
 
 .s{
@@ -76,6 +77,8 @@ main{
 
 .ico{
     background-color: #002955;
+    padding-top: 25px;
+    border: solid #002955;
 }
 
 .sp{
@@ -95,7 +98,8 @@ main{
 
 .foot ul li{
     background-color: #002955;
-    color: white;
+    color: rgba(255, 255, 255, 0.418);
+    line-height: 30px;
 }
 
 .foot ul li b{
