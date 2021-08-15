@@ -12,6 +12,8 @@ nav{
     display: flex;
    flex-direction: column;
 }
+
+
 .qu img{
     width: 1210px;
 }
@@ -31,6 +33,10 @@ nav{
     padding-right: 35px;
     color: white;
     border-radius: 2px;
+}
+
+.log button:hover{
+    border-radius: 20px;
 }
 
 main{
@@ -57,7 +63,8 @@ main{
 
 .photo{
     display: inline-block;
-    width: 42%;
+    width: 38%;
+    height: 423px;
 }
 
 .ico{
